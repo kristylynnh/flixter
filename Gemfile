@@ -62,9 +62,12 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'jquery-rails'
-
+gem 'carrierwave', '~> 1.0'
 gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
+gem 'figaro'
+gem 'fog-aws'
+gem 'mini_magick'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
@@ -73,3 +76,4 @@ end
 gem 'simple_form'
 
 gem 'devise'
+
