@@ -67,6 +67,7 @@ gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
 gem 'figaro'
 gem 'fog-aws'
+gem 'carrierwave-aws'
 gem 'mini_magick'
 
 source 'https://rails-assets.org' do
