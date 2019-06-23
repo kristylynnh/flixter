@@ -79,3 +79,7 @@ gem 'simple_form'
 gem 'devise'
 
 gem 'stripe'
+
+gem 'ranked-model'
+
+gem 'jquery-ui-rails'
